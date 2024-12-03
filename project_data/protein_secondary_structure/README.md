@@ -1,5 +1,5 @@
 
-Downloaded 15,000 cif files with protein data out of the 227933 total.  
+Downloaded 15,000 cif files with protein data out of the 227933 total from .  
 
 
 List of all protein ids obtained from https://data.rcsb.org/rest/v1/holdings/current/entry_ids
