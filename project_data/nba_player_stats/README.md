@@ -1,4 +1,4 @@
-Folder contains the player salaries and statistics from "https://www.basketball-reference.com/leagues/NBA_"
+Folder contains the NBA player salaries and statistics from "https://www.basketball-reference.com/leagues/NBA_"
 
 basketball_data.py:
   program which obtains the data from "https://www.basketball-reference.com/leagues/NBA_" and puts it in the 2 csv files
