@@ -1,3 +1,5 @@
+Data_Wrangling_&_Exploration.ipynb : for part 5.  Tests images being turned into a numpy array and collects all image paths into one list.
+
 Data obtained from “https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T” and is many pictures of skin along with their classification.
 
 HAM10000_images_part_1: 5,000 jpg images of skin lesions
